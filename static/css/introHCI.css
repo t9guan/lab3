@@ -40,3 +40,7 @@ body {
 .project a {
      text-align: center;
 }
+
+.project p.active{
+     color: blue;
+}
